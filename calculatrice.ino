@@ -3,7 +3,7 @@
 String cmd = "";
 
 void setup() {
-  Serial.begin(500000);
+  Serial.begin(9600);
   Serial.println("Mode d'emploi a lire avant première utilisation.");
   Serial.println("Calculatrice externe pour personne qui n'on pas de procésseur assez puissant pour calculer des chiffres sur le processeur et donc calculer sur un arduino externe branché en usb sur l'ordinateur pour ne pas encombrer les recources du pauvre pc meme si ca utilise encore des recources mais ca en utilise moins que si on calcule directement sur le processeur pourit et donc risquer de faire crash le pc");
   Serial.println("Je paris que tu n'as pas lu en haut");
