@@ -5,3 +5,4 @@ Branchez l'arduino et téléversez y le code , ouvrez le moniteur série et rég
 ## Licence
 Ce projet est distribué sous licence MIT.
 Voir le fichier [LICENSE](LICENSE) pour le texte complet de la licence.
+Pour plus d'info contactez pqdb221@proton.me
